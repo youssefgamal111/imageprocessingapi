@@ -1,0 +1,6 @@
+filename,width,height
+encenadaport,1920,1280
+fjord,1920,1280
+icelandwaterfall,1920,1280
+palmtunnel,1920,1280
+santamonica,1920,1280
